@@ -1,0 +1,76 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="eUZmCaLrkEDtFunfKEZ1">
+    <mxGraphModel dx="1717" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ou7W7zNZfW3UAcNS1TOm-3" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IxxdQZ9c7zTwmuudlHnD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar instancias sin Tiempos Teóricos" vertex="1">
+          <mxGeometry height="60" width="250" x="1320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou7W7zNZfW3UAcNS1TOm-4" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="IxxdQZ9c7zTwmuudlHnD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar instancias previas a Julio" vertex="1">
+          <mxGeometry height="60" width="250" x="1320" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou7W7zNZfW3UAcNS1TOm-5" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IxxdQZ9c7zTwmuudlHnD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Limpieza de atributos" vertex="1">
+          <mxGeometry height="60" width="250" x="1320" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou7W7zNZfW3UAcNS1TOm-2" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="IxxdQZ9c7zTwmuudlHnD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar instancias de Fases externas o canceladas" vertex="1">
+          <mxGeometry height="60" width="250" x="1320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou7W7zNZfW3UAcNS1TOm-1" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IxxdQZ9c7zTwmuudlHnD-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FASES ERP" vertex="1">
+          <mxGeometry height="80" width="120" x="1385" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou7W7zNZfW3UAcNS1TOm-6" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="IxxdQZ9c7zTwmuudlHnD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="OF ERP" vertex="1">
+          <mxGeometry height="80" width="120" x="935" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou7W7zNZfW3UAcNS1TOm-7" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IxxdQZ9c7zTwmuudlHnD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar OF con estados:&lt;div&gt;1&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;01 - Creada&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="870" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-18" edge="1" parent="1" source="IxxdQZ9c7zTwmuudlHnD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IxxdQZ9c7zTwmuudlHnD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar OF donde su fecha prevista de finalización sea&amp;nbsp; después de agosto" vertex="1">
+          <mxGeometry height="60" width="250" x="870" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;verticalAlign=top;" value="GOALS" vertex="1">
+          <mxGeometry height="200" width="640" x="80" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-14" parent="IxxdQZ9c7zTwmuudlHnD-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;- ¿QUE ATRIBUTOS DESCRIBEN UNA FASE?&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- ¿CÓMO SE AGRUPAN LAS FASES DENTRO DE LAS FAMÍLIAS DE MÁQUINAS?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Construir una tabla de conteo de fases x grupo máquinas&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- ¿CÓMO GESTIONAMOS LAS DISTINTAS COMPAÑIAS?&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="620" x="9" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="IMPUTACIONES MES" vertex="1">
+          <mxGeometry height="80" width="120" x="1850" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agrupar Imputaciones por Fase" vertex="1">
+          <mxGeometry height="60" width="250" x="1785" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar fases sin OF" vertex="1">
+          <mxGeometry height="60" width="250" x="1320" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Eliminar fases con OF creadas en Agosto" vertex="1">
+          <mxGeometry height="30" width="240" x="1020" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

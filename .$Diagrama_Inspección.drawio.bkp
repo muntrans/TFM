@@ -1,0 +1,22 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="eUZmCaLrkEDtFunfKEZ1">
+    <mxGraphModel dx="798" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar instancias sin Tiempos Teóricos" vertex="1">
+          <mxGeometry height="60" width="250" x="230" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar instancias previas a septiembre" vertex="1">
+          <mxGeometry height="60" width="250" x="230" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Liimpieza de atributos" vertex="1">
+          <mxGeometry height="60" width="250" x="230" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="IxxdQZ9c7zTwmuudlHnD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eliminar instancias de Fases externas o canceladas" vertex="1">
+          <mxGeometry height="60" width="250" x="230" y="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
