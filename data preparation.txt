@@ -1,0 +1,1 @@
+Data preparation typically involves two main stages: data cleaning and data pre-processing
