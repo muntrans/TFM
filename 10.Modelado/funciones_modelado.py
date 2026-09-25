@@ -9,8 +9,12 @@ def metricas(y_real, y_pred):
             "n":    len(y_real)}
 
 def obtener_fold(df, mes_val):
-    """Devuelve (train, valid) de un fold temporal.
-    train = desarrollo anterior a mes_val · valid = OF iniciadas en mes_val"""
+    """
+    Devuelve (train, valid) de un fold temporal.
+    mes_val supone el punto de corte:
+        anterior a mes_val = train
+        posterior a mes_val = validación 
+    """
     desarrollo = df[df["split"] == "desarrollo"]
     train = desarrollo[desarrollo["mes_orden"] < mes_val]
     valid = desarrollo[desarrollo["mes_orden"] == mes_val]
