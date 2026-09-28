@@ -1,1 +1,1 @@
-type pyproject.toml --> especificar la version de python con la que funcionar
+This project is made with Python 3.12.2
