@@ -1,0 +1,5 @@
+bloque,MAE_B0,RMSE_B0,MAE_B1_mediana,RMSE_B1_media,MAE_B2_familia_mediana,MAE_B2_maquina_mediana,RMSE_B2_familia_media,RMSE_B2_maquina_media
+valid 2026-02,1.14,1.779,1.021,1.474,0.988,0.978,1.436,1.409
+valid 2026-03,1.086,1.672,0.928,1.373,0.9,0.89,1.335,1.318
+valid 2026-04,1.092,1.68,0.967,1.394,0.937,0.922,1.35,1.327
+test,1.019,1.585,0.904,1.316,0.882,0.862,1.285,1.262

@@ -1,0 +1,20 @@
+# Entornos de Python
+.venv*/
+venv*/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos de la empresa: no se suben al repositorio (ver data/README.md)
+data/raw/*
+data/processed/*
+data/modeling/
+data/predictions/
+!data/*/.gitkeep
+
+# Temporales de draw.io, Office y del sistema
+*.bkp
+*.dtmp
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini

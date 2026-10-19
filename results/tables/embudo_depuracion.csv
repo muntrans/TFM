@@ -1,0 +1,25 @@
+bloque,paso,numero
+Máquinas y familias,Máquinas iniciales,120
+Máquinas y familias,Máquinas activas en MES,119
+Máquinas y familias,Máquinas productivas,76
+Máquinas y familias,Máquinas con suficientes imputaciones,38
+Máquinas y familias,Máquinas en familias válidas,32
+Máquinas y familias,Familias iniciales,57
+Máquinas y familias,Familias finales,9
+Imputaciones,Imputaciones iniciales,196576
+Imputaciones,Imputaciones dentro del intervalo temporal,140485
+Imputaciones,Imputaciones en máquinas productivas,59570
+Órdenes de fabricación,OF iniciales,18106
+Órdenes de fabricación,OF sin estado Creada,18105
+Órdenes de fabricación,OF creadas desde junio de 2025,12802
+Órdenes de fabricación,OF en intervalo temporal,11983
+Órdenes de fabricación,OF finales,6501
+Fases · rama ERP,Fases iniciales,116055
+Fases · rama ERP,Fases sin externas,107542
+Fases · rama ERP,Fases en OF válidas,69986
+Fases · rama MES,Fases en máquinas productivas,19149
+Fases · rama MES,Fases válidas (dominante >80%),18548
+Fases · rama MES,Fases sin imputaciones mal cerradas,17294
+Fases · unión ERP–MES,Fases con imputaciones validadas,16294
+Fases · unión ERP–MES,Fases con tiempos teóricos,14924
+Fases · unión ERP–MES,Fases de trabajos válidos,14689

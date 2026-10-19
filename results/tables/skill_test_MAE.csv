@@ -1,0 +1,7 @@
+modelo,vs B0,vs B1,vs B2-familia,vs B2-máquina
+pred_lgbm_log,22.9,13.1,10.9,8.9
+pred_rf_log,22.5,12.7,10.4,8.3
+pred_ridge_log,21.7,11.7,9.5,7.4
+pred_rf_ratio,19.9,9.8,7.4,5.3
+pred_lgbm_ratio,19.6,9.4,7.1,4.9
+pred_ridge_ratio,18.0,7.6,5.2,3.0

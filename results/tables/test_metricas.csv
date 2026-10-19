@@ -1,0 +1,11 @@
+prediccion,MAE,RMSE
+pred_lgbm_log,0.786,1.175
+pred_rf_log,0.79,1.186
+pred_ridge_log,0.798,1.208
+pred_rf_ratio,0.816,1.131
+pred_lgbm_ratio,0.819,1.134
+pred_ridge_ratio,0.836,1.156
+B2-máquina,0.862,1.262
+B2-familia,0.882,1.285
+B1,0.904,1.316
+B0,1.019,1.585
